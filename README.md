@@ -9,4 +9,4 @@ You may see how the coordinates of the peaks correspond to the approximations of
 
 In the file uploaded I used my own files. Please feel free to use any two variables.
 
-Made on Python 3.8.16.
+Made on Python 3.8.16, Jupyter Notebook.
